@@ -5,7 +5,7 @@
  * Chungbuk National University
  */
 
-#include<stdio.h> //표준입출력을 담당하는 <stdio.h> 헤더파일 선언
+#include<stdio.h> //표준입출력을 담당하는 <stdio.h> 헤더파일 선언.
 #include<stdlib.h> //표준 라이브러리 함수를 담당하는 <stdlib.h> 헤더파일 선언
 #include<string.h> //문자열 처리를 담당하는 <string.h> 헤더파일 선언
 

@@ -5,7 +5,7 @@
  * Chungbuk National University
  */
 
-#include <stdio.h>  //표준입출력을 담당하는 <stdio.h> 헤더파일 선언
+#include <stdio.h>  //표준입출력을 담당하는 <stdio.h> 헤더파일 선언.
 #include <stdlib.h> //표준 라이브러리 함수를 담당하는 <stdlib.h> 헤더파일 선언
 
 #define MAX_QUEUE_SIZE 4 //큐의 최대 크기를 4로 정의
